@@ -46,6 +46,7 @@ section {
 
 .text {
     clear: both;
+    margin: 10px;
 }
 
 #chicken {
